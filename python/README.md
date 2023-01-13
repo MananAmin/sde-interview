@@ -1,3 +1,5 @@
 # Software Development Engineer - Interview topics, notes and quick links
 
-pyhton interview qu: https://www.interviewbit.com/python-interview-questions/
+Python interview qu: https://www.interviewbit.com/python-interview-questions/
+
+https://holypython.com/100-python-tips-tricks/
